@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCarDriveLog</string>
+    <string name="action_settings">Settings</string>
+    <string name="StartButtonDisplay">Start</string>
+    <string name="StartTime">StartTime</string>
+
+    <string name="parse_app_id">80Xg1M3w8AdAUkX3czOmRigG9bWB0XWb3RZGjo9j</string>
+    <string name="parse_client_key">Gg8KQrQ8w5NLsTyPP9GuIOqtwjfQbtsUx28bp4NK</string>
+</resources>
